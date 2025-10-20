@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/giantswarm/apiextensions/v3/pkg/apis/provider/v1alpha1"
+	"github.com/giantswarm/apiextensions/v6/pkg/apis/provider/v1alpha1"
 	"github.com/santhosh-tekuri/jsonschema/v6"
 )
 
