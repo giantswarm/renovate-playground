@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/giantswarm/apiextensions/v3 v3.40.0
-	github.com/santhosh-tekuri/jsonschema/v6 v6.0.0
+	github.com/santhosh-tekuri/jsonschema/v6 v6.0.1
 )
 
 require (
